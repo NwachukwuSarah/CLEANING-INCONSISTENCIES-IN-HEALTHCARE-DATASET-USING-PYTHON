@@ -1,6 +1,7 @@
 DATASET DESCRIPTION:
 
 The dataset is part of a synthetically generated healthcare dataset and It contains a lot of dirt that needs to be cleaned.
+You can check out how dirty the data was before cleaning with the healthcare_dataset(Dirty).csv, check out the process of cleaning the data with the .ipynb file and check out the results fo the cleaning with healthcare_dataset(Cleaned).csv
 
 
 PROJECT GOAL:
