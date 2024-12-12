@@ -1,7 +1,9 @@
 DATASET DESCRIPTION:
+
 The dataset is part of a synthetically generated healthcare dataset and It contains a lot of dirt that needs to be cleaned.
 
 PROJECT GOAL:
+
 The Goal of this project is to:
 1. Make sure that the dataset is clean and consistent
 2. To make sure that each column follows the specified data standards.
