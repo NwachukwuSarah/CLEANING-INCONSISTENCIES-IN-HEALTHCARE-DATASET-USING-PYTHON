@@ -2,11 +2,13 @@ DATASET DESCRIPTION:
 
 The dataset is part of a synthetically generated healthcare dataset and It contains a lot of dirt that needs to be cleaned.
 
+
 PROJECT GOAL:
 
 The Goal of this project is to:
 1. Make sure that the dataset is clean and consistent
 2. To make sure that each column follows the specified data standards.
+
 
 DATA STANDARDS:
 1. NAME: All the Names in the name column should be in proper case
@@ -23,6 +25,7 @@ DATA STANDARDS:
 12. DATE OF DISCHARGE: Date of discharge should be in datetime format
 13. MEDICATION: The names of each medication should be in proper case
 14. TEST RESULTS: The values of the test results column should be in proper case.
+
 
 OTHER NOTES:
 1. I noticed that this dataset does have some female with masculine names and vice versa, this is a sign of duplicate or incorrect data. But i decided to leave it like that for this example because this is a synthetically generated dataset and has no data that i can crosscheck with.
